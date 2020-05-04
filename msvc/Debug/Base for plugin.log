@@ -1,0 +1,504 @@
+﻿Build started 12.08.2013 20:17:23.
+     1>Project "C:\starplugin\msvc\Base for plugin.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\starplugin.lastbuildstate".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\MNGR.SETTINGS' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\00' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\01' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\02' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\03' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\10' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\11' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\12' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\13' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\20' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\21' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\22' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : The process cannot access the file 'C:\PROGRAMDATA\BROWSER MANAGER\2.6.1519.190\{C16C1CCB-7046-4E5C-A2F3-533AD2FEC8E8}\TRAKING_SETTINGS\23' because it is being used by another process.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+       InitializeBuildStatus:
+         Creating "Debug\starplugin.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D "_WINDOWS" /D _USRDLL /D "BASEFORPLUGIN_EXPORTS" /D "_WINDLL" /D "_UNICODE" /D "UNICODE" /Gm /EHa /RTC1 /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\buildables.cpp ..\hookfuncs.cpp ..\lmdfuncs.cpp ..\main.cpp ..\skills.cpp
+         skills.cpp
+     1>c:\starplugin\jka\game\q_shared.h(1412): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1417): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1422): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\skills.cpp(82): warning C4244: '=' : conversion from 'int' to 'vec_t', possible loss of data
+     1>c:\starplugin\skills.cpp(82): warning C4244: '=' : conversion from 'int' to 'vec_t', possible loss of data
+     1>c:\starplugin\skills.cpp(82): warning C4244: '=' : conversion from 'int' to 'vec_t', possible loss of data
+     1>c:\starplugin\skills.cpp(103): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\skills.cpp(104): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\skills.cpp(105): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\skills.cpp(93): warning C4101: 'angles' : unreferenced local variable
+     1>c:\starplugin\skills.cpp(155): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\skills.cpp(156): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\skills.cpp(157): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\skills.cpp(177): warning C4101: 'temp' : unreferenced local variable
+     1>c:\starplugin\skills.cpp(216): warning C4101: 'temp' : unreferenced local variable
+     1>c:\starplugin\skills.cpp(335): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\skills.cpp(343): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+         main.cpp
+     1>c:\starplugin\jka\game\q_shared.h(1412): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1417): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1422): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winbase.h(1091): warning C4005: 'INFINITE' : macro redefinition
+                 c:\starplugin\jka\game\g_local.h(37) : see previous definition of 'INFINITE'
+     1>c:\starplugin\main.cpp(159): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(160): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(161): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(162): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(164): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(165): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(166): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(168): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(169): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(170): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\starplugin\main.cpp(272): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(286): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(344): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(352): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(353): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\starplugin\main.cpp(356): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(357): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(358): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(359): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(360): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(362): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\starplugin\main.cpp(367): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(368): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(369): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(370): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(371): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(376): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(385): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\starplugin\main.cpp(386): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(407): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(457): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(472): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\main.cpp(479): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\main.cpp(488): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(504): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(533): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(563): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(630): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(248) : see declaration of 'strnicmp'
+     1>c:\starplugin\main.cpp(631): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(632): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(248) : see declaration of 'strnicmp'
+     1>c:\starplugin\main.cpp(633): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(634): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(248) : see declaration of 'strnicmp'
+     1>c:\starplugin\main.cpp(635): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(661): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(248) : see declaration of 'strnicmp'
+     1>c:\starplugin\main.cpp(662): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(663): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(248) : see declaration of 'strnicmp'
+     1>c:\starplugin\main.cpp(664): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(665): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(248) : see declaration of 'strnicmp'
+     1>c:\starplugin\main.cpp(666): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(693): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(700): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(726): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(752): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(770): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(790): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(797): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(840): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(850): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\main.cpp(851): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\main.cpp(852): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\main.cpp(865): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(870): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(875): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(880): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(885): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(890): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(895): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(900): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(905): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(910): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(915): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(922): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(955): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(977): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(987): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(998): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1039): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1046): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1061): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1104): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1113): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1127): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1142): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1237): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1284): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1317): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1336): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1338): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1340): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1342): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1352): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1368): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1371): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1373): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1375): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1377): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1389): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1393): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1428): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1443): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1452): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1460): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\starplugin\main.cpp(1475): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\starplugin\main.cpp(1488): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1499): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1502): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1508): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1511): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1513): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1519): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\starplugin\main.cpp(1532): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1545): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1547): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1553): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\starplugin\main.cpp(1560): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1562): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1568): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1570): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1572): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1578): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\starplugin\main.cpp(1591): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1598): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\main.cpp(1604): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\starplugin\main.cpp(1615): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1617): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\main.cpp(1633): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\starplugin\main.cpp(1643): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\main.cpp(1649): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\main.cpp(570): warning C4101: 'forward' : unreferenced local variable
+     1>c:\starplugin\main.cpp(588): warning C4101: 'pl' : unreferenced local variable
+     1>c:\starplugin\main.cpp(1697): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(1698): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1699): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(1700): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1701): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(1702): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1703): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(1704): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\main.cpp(1705): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\main.cpp(1711): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+         lmdfuncs.cpp
+     1>c:\starplugin\jka\game\q_shared.h(1412): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1417): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1422): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\lmdfuncs.cpp(67): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\starplugin\lmdfuncs.cpp(69): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\lmdfuncs.cpp(255): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(238) : see declaration of 'strdup'
+     1>c:\starplugin\lmdfuncs.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\lmdfuncs.cpp(397): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\starplugin\lmdfuncs.cpp(399): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\starplugin\lmdfuncs.cpp(403): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\lmdfuncs.cpp(407): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\starplugin\lmdfuncs.cpp(414): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\starplugin\lmdfuncs.cpp(415): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\lmdfuncs.cpp(415): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strnicmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(248) : see declaration of 'strnicmp'
+         hookfuncs.cpp
+     1>c:\starplugin\jka\game\q_shared.h(1412): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1417): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1422): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\winbase.h(1091): warning C4005: 'INFINITE' : macro redefinition
+                 c:\starplugin\jka\game\g_local.h(37) : see previous definition of 'INFINITE'
+     1>c:\starplugin\hookfuncs.cpp(24): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(39): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(45): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(62): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(76): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(100): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(134): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(141): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(148): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(155): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(162): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(168): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(178): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(181): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\hookfuncs.cpp(183): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\hookfuncs.cpp(185): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\hookfuncs.cpp(189): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(198): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(208): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\starplugin\hookfuncs.cpp(210): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(212): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(227): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(235): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : see declaration of 'sscanf'
+     1>c:\starplugin\hookfuncs.cpp(236): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : see declaration of 'sscanf'
+     1>c:\starplugin\hookfuncs.cpp(276): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(280): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(305): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(310): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>c:\starplugin\hookfuncs.cpp(328): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\hookfuncs.cpp(329): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\starplugin\hookfuncs.cpp(333): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(334): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(335): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(338): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\starplugin\hookfuncs.cpp(344): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(348): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(352): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\hookfuncs.cpp(353): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(360): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(364): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(368): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\starplugin\hookfuncs.cpp(369): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\starplugin\hookfuncs.cpp(372): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\starplugin\hookfuncs.cpp(384): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\starplugin\hookfuncs.cpp(388): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\starplugin\hookfuncs.cpp(446): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(493): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(495): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(501): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(503): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(511): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(513): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(521): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(523): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\starplugin\hookfuncs.cpp(534): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         buildables.cpp
+     1>c:\starplugin\jka\game\q_shared.h(1412): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1417): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\jka\game\q_shared.h(1422): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\starplugin\buildables.cpp(17): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\buildables.cpp(18): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\buildables.cpp(19): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\buildables.cpp(41): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\buildables.cpp(42): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+     1>c:\starplugin\buildables.cpp(43): warning C4244: '=' : conversion from 'vec_t' to 'int', possible loss of data
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D "_UNICODE" /D "UNICODE" /l"0x0409" /nologo /fo"Debug\Base for plugin.res" "Base for plugin.rc" 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\starplugin.dll.embed.manifest.res" Debug\starplugin_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\starplugin.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.lib" /MACHINE:X86 /DLL "Debug\Base for plugin.res"
+         Debug\starplugin.dll.embed.manifest.res
+         Debug\buildables.obj
+         Debug\hookfuncs.obj
+         Debug\lmdfuncs.obj
+         Debug\main.obj
+         Debug\skills.obj
+            Creating library ..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.lib and object ..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.exp
+       Manifest:
+         Deleting file "Debug\starplugin.dll.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\starplugin.dll.embed.manifest" /manifest Debug\starplugin.dll.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\starplugin.dll.embed.manifest.res" Debug\starplugin_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\starplugin.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.lib" /MACHINE:X86 /DLL "Debug\Base for plugin.res"
+         Debug\starplugin.dll.embed.manifest.res
+         Debug\buildables.obj
+         Debug\hookfuncs.obj
+         Debug\lmdfuncs.obj
+         Debug\main.obj
+         Debug\skills.obj
+            Creating library ..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.lib and object ..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.exp
+         Base for plugin.vcxproj -> C:\starplugin\msvc\..\..\..\..\..\..\Program Files (x86)\LucasArts\Star Wars Jedi Knight Jedi Academy\GameData\lugor\plugins\starplugin.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\starplugin.unsuccessfulbuild".
+         Touching "Debug\starplugin.lastbuildstate".
+     1>Done Building Project "C:\starplugin\msvc\Base for plugin.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:29.90

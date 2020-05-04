@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Base for plugin">
+</Property><Property Name="Solution File" Value="C:\Users\Millennial\Downloads\testplugin\SvTime\msvc\Base for plugin.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Millennial\Downloads\testplugin\SvTime\msvc\Base for plugin.suo">
+</Property><Property Name="Date" Value="15 Eylül 2012 Cumartesi">
+</Property><Property Name="Time" Value="14:33">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="Base for plugin.sln" Description="Error creating backup file: C:\Users\Millennial\Downloads\testplugin\SvTime\msvc\Base for plugin.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="Base for plugin.suo" Description="Error creating backup file: C:\Users\Millennial\Downloads\testplugin\SvTime\msvc\Base for plugin.suo.old">
+</Event><Event ErrorLevel="0" Project="Base for plugin" Source="Base for plugin.vcproj" Description="Converting project file 'C:\Users\Millennial\Downloads\testplugin\SvTime\msvc\Base for plugin.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Base for plugin" Source="Base for plugin.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Base for plugin" Source="Base for plugin.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Base for plugin" Source="Base for plugin.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Base for plugin" Source="Base for plugin.vcproj" Description="Done converting to new project file 'C:\Users\Millennial\Downloads\testplugin\SvTime\msvc\Base for plugin.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Base for plugin" Source="Base for plugin.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Base for plugin.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Base for plugin.sln" Description="Converted">
+</Event></UpgradeLog>
